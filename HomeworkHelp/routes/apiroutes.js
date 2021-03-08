@@ -4,7 +4,7 @@ const path = require("path")
  
 
 // GET /api/notes - to return notes.html file
-router.get("/api/notes",(res,req)=>{
+router.get("/api/notes",(req,res)=>{
     db.forEach((note,index)=>{
         note.id=index+1
     })
@@ -12,7 +12,7 @@ router.get("/api/notes",(res,req)=>{
 })
 
  /*GET * to return index.html files */
-router.get("*"),(req,res=>{
+router.get("*", (req,res) => {
   const htmlpath=path.join(__dirname,"../public/index.html")
     res.sendFile(htmlpath)
 })
