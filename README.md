@@ -6,8 +6,8 @@
 
 
 ## Installation:
-   Node.js is required
-   npm install is required to install required npm packages
+   -Node.js is required
+   -Npm install is required to install required npm packages
 
  ## Usage:
     To start using the application, open your browser and go to
@@ -18,7 +18,7 @@
  ## Contributing:
     Contributions made by Jordan Mossing using various technolgies.
 
- ## Screenshoots:
+ ## Screenshots:
 
  # ![Image](./public/assets/LOCALHOST3000.PNG)
 
@@ -32,10 +32,10 @@
 
     Or by email: jordan.mossing@gmail.com
 
-## Links to Note Taker in GitHub and Heroku:
+## Link to Note Taker Deployed in Heroku:
 
 ## [Heroku Link](https://note-taker-jordan.herokuapp.com/)
-## [GitHub Link](https://github.com/jmo1point0/NoteTaker11)
+
 
  
  
