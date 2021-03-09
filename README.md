@@ -20,9 +20,9 @@
 
  ## Screenshoots:
 
- # ![Image](./HomeworkHelp/public/assets/LOCALHOST3000.PNG)
+ # ![Image](./public/assets/LOCALHOST3000.PNG)
 
- # ![Image](./HomeworkHelp/public/assets/NoteTakerScreenShot.PNG)
+ # ![Image](./public/assets/NoteTakerScreenShot.PNG)
 
  ## Questions:
  
@@ -31,6 +31,12 @@
     -[GitHub Profile](https://github.com/jmo1point0)     
 
     Or by email: jordan.mossing@gmail.com
+
+## Links to Note Taker in GitHub and Heroku:
+
+## [Heroku Link](https://note-taker-jordan.herokuapp.com/)
+## [GitHub Link](https://github.com/jmo1point0/NoteTaker11)
+
  
  
 
